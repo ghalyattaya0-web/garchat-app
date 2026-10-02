@@ -1,4 +1,3 @@
-include ':android:app'
 include ':app'
 project(':app').projectDir = file('android/app')
 rootProject.name = 'garchat'
