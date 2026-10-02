@@ -2,7 +2,7 @@ import http from 'node:http';
 import fs from 'node:fs';
 import path from 'node:path';
 
-const PORT = process.env.PORT || 3000;
+const PORT = 3000;
 
 const defaultHtml = `<!DOCTYPE html>
 <html lang="id">
