@@ -1,0 +1,11 @@
+{
+  "name": "Garchat",
+  "description": "Platform perpesanan instan full-stack modern dengan chat pribadi & grup realtime, berbagi media, status 24 jam, komunitas, panggilan suara/video WebRTC, latar belakang 3D interaktif, dan panel moderasi admin.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

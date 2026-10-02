@@ -1,0 +1,8 @@
+{
+  "appId": "com.garchat.app",
+  "appName": "Garchat",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
